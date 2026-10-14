@@ -27,7 +27,7 @@ I enjoy exploring both offensive and defensive security while improving my devel
 ## 🛠️ Technologies & Interests
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=linux,html,css,js,react,nodejs,git,github,vscode" alt="Development technologies" />
 </p>
 
 <p align="center">
