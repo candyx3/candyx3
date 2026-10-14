@@ -1,4 +1,4 @@
-# 🍬 Hey, I'm Chandru — but you can call me Candy!
+# Hey, I'm Chandru aka Candy 📍
 
 ### SOC Analyst | VAPT | Developer
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Chandru**, also known as **Candy** 🍬 — a cybersecurity enthusiast and developer interested in understanding security threats, identifying vulnerabilities, and building useful applications.
+Hey! I'm **Chandru** — a cybersecurity enthusiast and developer interested in understanding security threats, identifying vulnerabilities, and building useful applications.
 
 I enjoy exploring both offensive and defensive security while improving my development skills through hands-on labs, personal projects, and continuous learning.
 
@@ -62,5 +62,5 @@ I enjoy exploring both offensive and defensive security while improving my devel
 </p>
 
 <p align="center">
-  <i>Sweet name. Suspicious activity. Clean code. 🍬</i>
+  <i>Sweet name. Suspicious activity. Clean code. </i>
 </p>
