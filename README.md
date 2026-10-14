@@ -1,4 +1,4 @@
-# Chandru | Cybersecurity & Development
+# Hey, I'm Chandru 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;VAPT+%7C+SOC+Analysis;Linux+%7C+Security+Labs;Developer+%7C+Problem+Solver" alt="Typing introduction" />
